@@ -1,0 +1,15 @@
+.wrapper{
+    position: relative;
+    width: 75%;
+    height: 600px;
+    color: red;
+    background-image: url("https://th.bing.com/th/id/OIP.J1cYj7K3id8rdBDNiUpRCQHaEg?w=292&h=180&c=7&o=5&pid=1.7");
+    background-size: cover;
+    border-radius: 12px;
+}
+
+.content{
+    text-align: center;
+    padding: 250px;
+    font-size: 30px;
+}
